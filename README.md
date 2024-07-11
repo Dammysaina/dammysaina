@@ -2,7 +2,7 @@
 I'm a Frontend Developer.
 
 - 👯 I’m interested in collaborating with fellow developers.
-- 🔭 Web development is an area that captivates me.
+- 🔭 Wbe development is an area that captivates me.
 - 🥅 I'm deeply enthusiastic about Web development using React, Tailwind, and any Javascript framwork.
 - ⚡ Fun fact: In my spare time, I enjoy cooking.
 
