@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a Web Developer.
+I'm a Frontend Developer.
 
 - 👯 I’m interested in collaborating with fellow developers.
 - 🔭 Web development is an area that captivates me.
